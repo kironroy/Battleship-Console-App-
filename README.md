@@ -123,3 +123,13 @@ Grid Design:
 *   SpotNumber: int
 *   Status string (possible enum)
 
+#### Debugging
+
+*   After the the grid displays, we need two empty lines.
+*   Who is shooting?
+*   Tell us the result of the shot and put one empty line in afterwards.
+*   Put a space after the hit/miss to keep spacing accurate.
+*   Winner not declared after all ships sunk.
+
+
+
