@@ -1,10 +1,19 @@
 ### Battleship Project
 
 ### WOULD Framework
+#### Basic Requirements
 
-#### Requirements
+*   Is the same console, or two different consoles working together? Same console
+*   Does the other player get one last chance after being sunk? No
+*   Do we want to capture/display stats such as hit/miss ratio etc.? Just how many shots it took to win
+*   Only one ship per spot.
+*   Do we allow a player to shoot the same spot twice? No
+*   Do we show a visual of the grid? Yes
+*   Do we store game data? No
+*   Are we ever going to change number of players Maybe
+*   Will we add a computer player? Maybe
 
-Answered
+#### Requirements Answered
 
 *   Is the same console, or two different consoles working together?
     
@@ -40,17 +49,6 @@ Answered
     Maybe
     
 
-#### Basic Requirements
-
-*   Is the same console, or two different consoles working together? Same console
-*   Does the other player get one last chance after being sunk? No
-*   Do we want to capture/display stats such as hit/miss ratio etc.? Just how many shots it took to win
-*   Only one ship per spot.
-*   Do we allow a player to shoot the same spot twice? No
-*   Do we show a visual of the grid? Yes
-*   Do we store game data? No
-*   Are we ever going to change number of players Maybe
-*   Will we add a computer player? Maybe
 
 #### General Flow
 
@@ -128,3 +126,4 @@ Grid Design:
 *   SpotLetter: string
 *   SpotNumber: int
 *   Status string (possible enum)
+
