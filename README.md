@@ -71,7 +71,7 @@ Answered
 
 1.    Welcome message
 2.    Add user 1 for their name
-3.    Add user 2 for their 5 ship placements
+3.    Add user 1 for their 5 ship placements
 4.         Ask for placement
 5.         Determine if is valid spot
 6.         Store
