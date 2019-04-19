@@ -10,9 +10,7 @@
 *   Are we ever going to change number of players Maybe
 *   Will we add a computer player? Maybe
 
-#### Requirements
-
-Answered
+#### Requirements &#8594; Answered
 
 *   Is the same console, or two different consoles working together?
     
@@ -124,3 +122,4 @@ Grid Design:
 *   SpotLetter: string
 *   SpotNumber: int
 *   Status string (possible enum)
+
